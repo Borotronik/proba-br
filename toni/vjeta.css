@@ -1,0 +1,12 @@
+table,tr,td{
+    border: 3px solid black;
+}
+table{
+    text-align: center;
+}
+.zu{
+    background-color: yellow;
+}
+.pl{
+    border: aqua px solid;
+}

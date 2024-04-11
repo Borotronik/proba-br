@@ -1,0 +1,19 @@
+
+table{
+    border: solid 1px;
+    width: 100%;
+    text-align: center;
+}
+table table{
+    border: none;
+}
+.ime{
+    width: 70%;
+}
+tr,th{
+    border: solid 1px black;
+    
+}
+.sm{
+    background-color: aquamarine;
+}
